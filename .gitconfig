@@ -1,0 +1,9 @@
+[alias]
+    ch = checkout
+    re = rebase
+    st = status
+    co = commit
+    pu = pull
+    a = add
+    df = diff
+    b = branch
